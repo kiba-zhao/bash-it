@@ -1,7 +1,7 @@
 cite about-plugin
-about-plugin 'wifi helper functions'
+about-plugin 'hack helper functions'
 
-function wifilist() {
+function testlist() {
   about 'list hosts defined in ssh config'
   echo '12313'
   group 'ssh'
